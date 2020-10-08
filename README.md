@@ -1,2 +1,2 @@
-# mysql_northwind
-Base de datos para pruebas
+# Mysql Northwind
+Base de datos para pruebas y aprender
